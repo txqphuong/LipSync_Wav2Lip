@@ -9,4 +9,5 @@ You can run this file on Colab.
 You can use the test video, sound and see my result via this link: https://drive.google.com/drive/folders/10hVHIPRtL1WcSisLi5xvYhyFrwpVzNmf?usp=sharing
 
 The tutorial from authors: https://www.youtube.com/watch?v=Ic0TBhfuOrA&t=297s
+
 Resource: https://github.com/Rudrabha/Wav2Lip
